@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(int argc, char const * argv[]) {
-    printf("Hello World from Qualcomm Board\n");
+    std::cout << "Hello World from Qualcomm Board\n") << std::endl;
     return 0;
 }
